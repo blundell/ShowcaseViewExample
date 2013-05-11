@@ -3,8 +3,15 @@ ShowcaseView Example
 
 Showing the use of the ShowcaseView library, including consecutive showcases and full customisation
 
+Main place you'll want to look
+------------------------------
 
-**NOTE**
+- [ShowcaseManager](https://github.com/blundell/ShowcaseViewExample/blob/master/ShowcaseTut/src/com/blundell/tut/showcase/ShowcaseManager.java)
+- [ShowcaseViews](https://github.com/blundell/ShowcaseViewExample/blob/master/ShowcaseTut/src/com/blundell/tut/showcase/ShowcaseViews.java)
+- [Custom Showcase Layout](https://github.com/blundell/ShowcaseViewExample/blob/master/ShowcaseTut/res/layout/view_showcase.xml)
+
+NOTE
+----
 
 This project has two Android Library Dependencys.
 
@@ -16,7 +23,7 @@ which in turn has it's own Android Library dependency on.
 
 ![Project Structure](http://img.photobucket.com/albums/v230/blundell/Android/ScreenShot2013-05-11at011924_zps683400f3.png)
 
-Screens from the demo:
+###Screens from the demo
 
 ![SS1](http://img.photobucket.com/albums/v230/blundell/Android/ScreenShot2013-05-11at012204_zps49a284f2.png)
 ![SS2](http://img.photobucket.com/albums/v230/blundell/Android/ScreenShot2013-05-11at012215_zps10cd7e89.png)
