@@ -6,9 +6,9 @@ Showing the use of the ShowcaseView library, including consecutive showcases and
 Main place you'll want to look
 ------------------------------
 
-- [ShowcaseManager](https://github.com/blundell/ShowcaseViewExample/blob/master/ShowcaseTut/src/com/blundell/tut/showcase/ShowcaseManager.java)
-- [ShowcaseViews](https://github.com/blundell/ShowcaseViewExample/blob/master/ShowcaseTut/src/com/blundell/tut/showcase/ShowcaseViews.java)
-- [Custom Showcase Layout](https://github.com/blundell/ShowcaseViewExample/blob/master/ShowcaseTut/res/layout/view_showcase.xml)
+- [ShowcaseManager](https://github.com/blundell/ShowcaseViewExample/blob/master/ShowcaseTut/src/com/blundell/tut/showcase/ShowcaseManager.java) shows how to setup a showcase
+- [ShowcaseViews](https://github.com/blundell/ShowcaseViewExample/blob/master/ShowcaseTut/src/com/blundell/tut/showcase/ShowcaseViews.java) shows how to have consecutive Showcases
+- [Custom Showcase Layout](https://github.com/blundell/ShowcaseViewExample/blob/master/ShowcaseTut/res/layout/view_showcase.xml) shows how to set custom colors / text
 
 NOTE
 ----
