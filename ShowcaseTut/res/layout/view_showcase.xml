@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This is our ShowCase template that we will use
+      whenever we want to showcase an item.
+      Here we can customise the colors of the showcase. -->
+<com.github.espiandev.showcaseview.ShowcaseView xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:showcaseview="http://schemas.android.com/apk/res/com.blundell.tut"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  showcaseview:sv_backgroundColor="@color/showcase_background"
+  showcaseview:sv_buttonText="@string/showcase_button_ok" />

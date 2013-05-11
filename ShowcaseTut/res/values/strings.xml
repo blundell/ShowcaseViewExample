@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">ShowcaseTut</string>
+  <string name="lorem_ipsum">Bacon ipsum dolor sit amet mollit corned beef esse tail, meatball ut adipisicing. Shoulder tempor quis biltong salami.
+    Pastrami irure ham est pork. Nostrud consequat ribeye brisket andouille laborum. Id meatloaf est t-bone tongue ball tip in. Pig elit nostrud
+    meatloaf sunt spare ribs ullamco pork loin laborum brisket leberkas drumstick hamburger. Salami prosciutto spare ribs elit shoulder exercitation
+    tempor, pork loin ham turkey dolor non dolore deserunt.
+  </string>
+  <string name="button_continue">Continue</string>
+  <string name="activity_second_text">Activity Second : Bacon ipsum dolor sit amet mollit corned beef esse tail, meatball ut adipisicing. Shoulder
+    tempor quis biltong salami. Pastrami irure ham est pork. Nostrud consequat ribeye brisket andouille laborum. Id meatloaf est t-bone tongue ball
+    tip in. Pig elit nostrud meatloaf sunt spare ribs ullamco pork loin laborum brisket leberkas drumstick hamburger. Salami prosciutto spare ribs
+    elit shoulder exercitation tempor, pork loin ham turkey dolor non dolore deserunt.
+    Laboris biltong pork belly, tempor non consequat est velit t-bone filet mignon ullamco ham turkey ground round tri-tip. Enim strip steak in est
+    consectetur corned beef nisi leberkas proident cow dolore ad hamburger. Kielbasa pork loin filet mignon in. Cillum strip steak qui incididunt
+    mollit chuck corned beef ground round.
+    Hamburger aliqua sausage spare ribs jerky pariatur strip steak sint meatball. Eiusmod filet mignon eu, frankfurter consequat andouille est ad
+    pancetta beef ribs doner nisi voluptate tongue elit. Sed reprehenderit leberkas pork belly, officia cupidatat pork loin. Do bresaola andouille
+    rump non aliqua shank pariatur. Esse meatloaf pig, velit anim tenderloin hamburger andouille. Leberkas consectetur pork belly, shank eu incididunt
+    exercitation.
+  </string>
+  <string name="showcase_main_spinner_title">Navigation Spinner</string>
+  <string name="showcase_main_spinner_message">Click this to navigate to the main areas of the app</string>
+  <string name="showcase_main_continue_title">Continue Button</string>
+  <string name="showcase_main_continue_message">Press this button to navigate to the second activity</string>
+  <string name="showcase_button_ok">I understand</string>
+</resources>
